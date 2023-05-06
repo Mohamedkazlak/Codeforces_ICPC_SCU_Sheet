@@ -1,4 +1,4 @@
-# ICPC Suez Canal University Training - Newcomers
+# ICPC Suez Canal University - Newcomers Training
 
 <a href="https://codeforces.com/group/n3sTiYtHxI/contests"></a>
 
