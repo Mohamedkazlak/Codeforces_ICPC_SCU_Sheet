@@ -1,8 +1,8 @@
-# Assiut University Training - Newcomers
+# ICPC Suez Canal University Training - Newcomers
 
-<a href="https://codeforces.com/group/MWSDmqGsZm/contests"></a>
+<a href="https://codeforces.com/group/n3sTiYtHxI/contests"></a>
 
-### [ 👉 Sheets link 👈](https://codeforces.com/group/MWSDmqGsZm/contests)
+### [ 👉 Sheets link 👈](https://codeforces.com/group/n3sTiYtHxI/contests)
 
 ## Description
 
