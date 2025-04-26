@@ -1,8 +1,8 @@
 # ICPC Suez Canal University - Newcomers Training
 
-<a href="https://codeforces.com/group/n3sTiYtHxI/contests"></a>
+<a href="https://codeforces.com/group/MWSDmqGsZm/contests"></a>
 
-### [ 👉 Sheets link 👈](https://codeforces.com/group/n3sTiYtHxI/contests)
+### [ 👉 Sheets link 👈](https://codeforces.com/group/MWSDmqGsZm/contests)
 
 ## Description
 
